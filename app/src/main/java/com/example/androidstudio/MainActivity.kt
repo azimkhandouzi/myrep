@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var txt = findViewById<TextView>(R.id.txt_main)
-        txt.text = "my name is azim khandouzi"
+        txt.text = "azim khandouzi"
 
     }
 
